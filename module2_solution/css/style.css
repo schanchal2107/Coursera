@@ -4,17 +4,17 @@
 }
 
 body {
-    background-color: #FFFFFF;
+    background-color: #CC6633;
 }
 
 h1 {
     text-align: center;
-    color: #0000FF;
+    color: #990000;
 }
 
 section {
     border: 1px solid black;
-    background-color: #b5c4d2;
+    background-color: #CC9900;
     margin: 10px;
 }
 
@@ -33,16 +33,15 @@ section>h2 {
 }
 
 section.shooter>h2 {
-    background-color: #76b8db;
+    background-color: #CC3300;
 }
 
 section.javelin>h2 {
-    background-color: #4f7acd;
+    background-color: #CC3300;
 }
 
 section.hockey>h2 {
-    color: #e2e2e2;
-    background-color: #10328a;
+    background-color: #CC3300;
 }
 
 section>p {
